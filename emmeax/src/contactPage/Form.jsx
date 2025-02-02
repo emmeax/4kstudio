@@ -37,7 +37,7 @@ const Form = () => {
         ))}
         <button
           type="submit"
-          className="flex items-center justify-center gap-2 px-8 py-3 bg-[#151E99] text-white rounded-full hover:bg-opacity-90 transition-all duration-300"
+          className="flex items-center justify-center gap-2 px-8 py-3 bg-[#151E99] text-white rounded-xm hover:bg-opacity-90 transition-all duration-300"
         >
           Send Message <MdArrowOutward />
         </button>
